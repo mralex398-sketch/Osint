@@ -19,7 +19,7 @@ This project requires **Python 3.x** and the standard `requests` HTTP communicat
 
 1. Clone or download this repository into your dedicated local folder:
 ```bash
-git clone https://github.com
+git clone https://github.com/mralex398-sketch/
 cd Pymap-OSINT
 ```
 
